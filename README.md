@@ -127,7 +127,7 @@ me.say_hi()
 |:---:|:---:|
 | ✉️ Email | [shivareddyy.dev@gmail.com](mailto:shivareddyy.dev@gmail.com) |
 | 💼 LinkedIn | [chittishivacharanreddy](https://www.linkedin.com/in/chittishivacharanreddy) |
-| 🐙 GitHub | [MRSHIVA2507](https://github.com/MRSHIVA0107) |
+| 🐙 GitHub | [MRSHIVA0107](https://github.com/MRSHIVA0107) |
 
 </div>
 
