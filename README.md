@@ -90,14 +90,14 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRSHIVA2507&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRSHIVA2507&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRSHIVA0107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRSHIVA0107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MRSHIVA2507&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MRSHIVA0107&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -106,7 +106,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MRSHIVA2507&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=MRSHIVA0107&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
@@ -114,7 +114,7 @@ me.say_hi()
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRSHIVA2507&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRSHIVA0107&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -127,7 +127,7 @@ me.say_hi()
 |:---:|:---:|
 | ✉️ Email | [shivareddyy.dev@gmail.com](mailto:shivareddyy.dev@gmail.com) |
 | 💼 LinkedIn | [chittishivacharanreddy](https://www.linkedin.com/in/chittishivacharanreddy) |
-| 🐙 GitHub | [MRSHIVA2507](https://github.com/MRSHIVA2507) |
+| 🐙 GitHub | [MRSHIVA2507](https://github.com/MRSHIVA0107) |
 
 </div>
 
